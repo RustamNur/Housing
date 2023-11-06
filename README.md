@@ -1,6 +1,6 @@
 # Getting Started with *Webbrain Academy Internship*
 
-This project is available on github [Housing](https://https://github.com/RustamNur/Housing). <--housing>
+This project is available on github [Housing](https://https://github.com/RustamNur/Housing). 
 
 # Can see the Demo version [Housing](netlify)
 
